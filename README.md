@@ -25,7 +25,7 @@ This is a Spring Boot REST API for managing customers.
 
 ```bash
 # Clone the repo
-git clone [customer-management](https://github.com/baljeetsinghs1992/customer-management.git)
+git clone https://github.com/baljeetsinghs1992/customer-management.git
 
 # Navigate to project directory
 cd customer-management-api
